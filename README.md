@@ -1,2 +1,2 @@
 # spicy
-spicy
+This is spicy
